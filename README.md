@@ -16,7 +16,7 @@
 - Contributing to open source and learning from the community
 
 ## 📫 Get In Touch
-- Email: [your-email@example.com](mailto:adhikarisamadhan@gmail.com)
+- Email: [adhikarisamadhan@gmail.com](mailto:adhikarisamadhan@gmail.com)
 
 ---
 
