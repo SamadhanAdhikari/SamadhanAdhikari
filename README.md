@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello
+## 🚀 About Me
+- Student and aspiring developer
+- Passionate about **Python**, **game development**, and **building applications**
+- Focused on shipping real projects that solve problems
+- Learning by doing and contributing to the open source community
 
-<!--
-**SamadhanAdhikari/SamadhanAdhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- **Languages:** Python
+- **Tools:** Git, GitHub, VS Code
 
-Here are some ideas to get you started:
+## 📈 What I'm Focusing On
+- Building **games and applications** that are actually useful
+- Understanding core concepts and best practices
+- Growing my portfolio through hands-on projects
+- Contributing to open source and learning from the community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get In Touch
+- Email: [your-email@example.com](mailto:adhikarisamadhan@gmail.com)
+
+---
+
+*Always learning, always building.*
